@@ -1,5 +1,7 @@
-# NLP-Disaster_Tweets
+# NLP - Disaster Tweets
 This project is part of the Coursera Introduction to Deep Learning course. The main goal is a binary classification task, aiming to predict whether a given tweet is about a real disaster (predict 1) or not (predict 0).
+
+[Kaggle competition](https://www.kaggle.com/competitions/nlp-getting-started)
 
 # Data
 >Each sample in the train and test set has the following information:
@@ -21,3 +23,7 @@ Dataset can be downloaded [here](https://www.kaggle.com/competitions/nlp-getting
 
 # Score
 The model scored _0.81_ on the kaggle leaderboard
+
+
+# Reference
+- [Natural Language Processing](https://www.kaggle.com/competitions/nlp-getting-started)
